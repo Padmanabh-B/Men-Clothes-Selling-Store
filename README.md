@@ -1,4 +1,3 @@
-
 # T-Shirt Selling Website (Django-React)
 
 ![Django/React](https://img.shields.io/badge/Django-React-yellow)
@@ -29,15 +28,15 @@ npm start
 
 ## Reach Me Out on
 
-<img align="center"  width="24px" src="./myassests/readme_assets/linkedin.png" /> [Linkedin](https://www.linkedin.com/in/padmanabh-belavadi)
+[Linkedin](https://www.linkedin.com/in/padmanabh-belavadi)
 
 
-<img align="center"  width="24px" src="./myassests/readme_assets/github.png" /> [GitHub](https://github.com/padmanabh-b)
+[GitHub](https://github.com/padmanabh-b)
 
 
 
-<img align="center" width="24px" src="./myassests/readme_assets/instagram.png" /> [Instagram](https://www.instagram.com/legend_padmanabh/)
+[Instagram](https://www.instagram.com/legend_padmanabh/)
 
-<img align="center"  width="24px" src="./myassests/readme_assets/findcoder.png" /> [Findcoder](https://www.findcoder.io/u/padmanabh_b)
+[Findcoder](https://www.findcoder.io/u/padmanabh_b)
 
 
